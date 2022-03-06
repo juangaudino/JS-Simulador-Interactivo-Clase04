@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+.clase1
+{
+    font-family: "Source Sans Pro", sans-serif;
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    font-size: 1.9rem;
+    line-height: 2;
+    margin-bottom: 0rem;
+}
+
+.clase2
+{
+    font-family: "Source Sans Pro", sans-serif;
+    color: darkgrey;
+    background-color: black;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
