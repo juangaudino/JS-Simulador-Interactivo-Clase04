@@ -3,4 +3,4 @@
  
  1era. Entrega del Proyecto Final | Coderhouse | JavaScript
 
-Realización de una sitio web que permita a los usuarios calcular el costo de impresión de diversos materiales.
+Realización de un sitio web que permita a los usuarios calcular el costo de impresión de diversos materiales.
