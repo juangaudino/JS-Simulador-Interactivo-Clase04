@@ -62,11 +62,4 @@ else if (material === 'Front' || material === 'Back') {
     
 }
 
-// Document Write
-
-
-
-
-
-
 
