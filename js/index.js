@@ -36,10 +36,16 @@ function calcularPrecio(material, cantidad, metrosCuadrados) {
     return precio;
 }
 
+function solicitarMaterial() {
+    let material = prompt('Ingrese el material: PAI, CPM, Front o Back');
+    return material;
+}
+
 // Solicitud de datos
 
-let material = prompt('Ingrese el material: PAI, CPM, Front o Back');
+// let material = prompt('Ingrese el material: PAI, CPM, Front o Back');
 
+let material = solicitarMaterial();
 if (material === 'PAI' || material === 'CPM') {
     cantidad = prompt(`Ingrese la cantidad de ${material} a producir`);
     console.log(`El costo de producción de ${cantidad} ${material} es de $${calcularPrecio(material, cantidad)}`);
